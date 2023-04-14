@@ -1,0 +1,18 @@
+{
+    "app-id": "prototypeone",
+    "app-name": "Prototype One",
+    "simulation": false,
+    "dev-mode": true,
+    "robot-connection": {
+        "robot-id": "SIM-07f14eea9bd4",
+        "ip-address": [
+            "172.17.0.2"
+        ],
+        "dds-domain": 1,
+        "robot-serial": "SIM-07f14eea9bd4"
+    },
+    "logging": {
+        "file_enabled": true,
+        "folder": "log"
+    }
+}
